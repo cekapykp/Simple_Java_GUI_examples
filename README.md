@@ -1,5 +1,6 @@
 # Simple_Java_GUI_examples
 ## Button label and frame examples made with Java
+### What is GUI in Java? GUI (Graphical User Interface) in Java is an easy-to-use visual experience builder for Java applications. It is mainly made of graphical components like buttons, labels, windows, etc. through which the user can interact with an application.
 
 <img width="402" alt="Screen Shot 2022-06-05 at 15 57 26" src="https://user-images.githubusercontent.com/61888196/172051467-60d7ee63-9da3-40ee-8cb2-5cc750d211a8.png">
 <img width="400" alt="Screen Shot 2022-06-05 at 15 56 22" src="https://user-images.githubusercontent.com/61888196/172051476-542c3562-7bb8-426e-a668-4880941ef986.png">
